@@ -85,5 +85,4 @@ Stakeholder interviews, requirements elicitation, requirements analysis, and sys
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- Email: nguyenthihuyenthuong16062004@gmail.com
